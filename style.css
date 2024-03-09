@@ -1,0 +1,48 @@
+.test1{
+    background-color: brown;
+    width: fit-content;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: white;
+    text-transform: capitalize;
+    line-height:1.6 ;
+
+}
+.test{
+    width: 400px;
+   color:blue;
+   height: 50px;
+   overflow: hidden;
+
+}
+.capital,
+ .upper ,
+ .lower {
+    font-size: 25px;
+    font-weight: 600;
+}
+.capital{
+    text-transform: uppercase;
+    
+}
+.upper{
+  
+    text-transform:capitalize ;
+
+}
+.lower{
+    text-transform: lowercase;
+
+}
+.task3 p{
+    width: 400px;  
+    background-color: dimgray; 
+    padding: 10px;
+    line-height:1.6 ;
+}
+.task3 .last-p{
+white-space: nowrap;  
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
